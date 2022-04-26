@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## I'm a 19yo developer and i mainly code in python!
 
-- 🔮 I'm currently working on [ExodiaIO]:https://twitter.com/ExodiaIO
-- 📫 How to reach me: Discord - @R2Riccardo#2002 | Twitter - [@R2Riccardo]:https://twitter.com/R2Riccardo
+- 🔮 I'm currently working on [ExodiaIO](https://twitter.com/ExodiaIO)
+- 📫 How to reach me: Discord - @R2Riccardo#2002 | Twitter - [@R2Riccardo](https://twitter.com/R2Riccardo)
 ### Languages and Tools:
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
