@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a 19yo developer and i mainly code in python!
+## I'm a 20yo developer and i mainly code in python!
 
 - 🔮 I'm currently working on [ExodiaIO](https://twitter.com/ExodiaIO)
 - 📫 How to reach me: Discord - @R2Riccardo#2002 | Twitter - [@R2Riccardo](https://twitter.com/R2Riccardo)
