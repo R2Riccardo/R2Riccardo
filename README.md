@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
 <img align="left" alt="R" width="26px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/69/formation-langage-r.png" />
 
+![R2Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=R2Riccardo&show_icons=true&theme=tokyonight&count_private=true)
 
 
 <br />
