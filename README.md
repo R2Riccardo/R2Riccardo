@@ -1,6 +1,6 @@
 ## Hi there! My name's Riccardo 🙃
 
-## I'm a 21yo developer and i mainly code in python!
+## I'm a 22yo developer and i mainly code in python!
 
 - 📫 How to reach me: Discord - @R2Riccardo#2002 | Twitter - [@R2Riccardo](https://twitter.com/R2Riccardo)
 ### Languages and Tools:
