@@ -8,7 +8,7 @@
 ## Past Experience:
 - Owner and Lead Dev @ [ExodiaAIO](https://x.com/ExodiaAIO)
 - Dev @ CarnageBots
-- Staff Member and Dev @ [PhasmaAIO](https://x.com/phasmaio))
+- Staff Member and Dev @ [PhasmaAIO](https://x.com/phasmaio)
 ### Languages and Tools:
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
