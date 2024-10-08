@@ -3,6 +3,12 @@
 ## I'm a 22yo Economics Student and Developer, i mainly code in python!
 
 - 📫 How to reach me: Discord - @R2Riccardo#2002 | X.com - [@R2Riccardo](https://x.com/R2Riccardo)
+- Currently working for [@Retail.go](https://x.com/Retailgo_)
+
+## Past Experience:
+- Owner and Lead Dev @ [ExodiaAIO](https://x.com/ExodiaAIO)
+- Dev @ CarnageBots
+- Staff Member and Dev @ [PhasmaAIO](https://x.com/phasmaio))
 ### Languages and Tools:
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
