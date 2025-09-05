@@ -1,6 +1,6 @@
 ## Hi there! My name's Riccardo 🙃
 
-## I'm a 22yo Economics Student and Developer, i mainly code in python!
+## I'm a 23yo Economics Student and Developer, i mainly code in python!
 
 - 📫 How to reach me: Discord - @R2Riccardo#2002 | X.com - [@R2Riccardo](https://x.com/R2Riccardo)
 - Currently working on [@TixEase](https://x.com/TixEase) - [tixease.pro](https://tixease.pro) 
